@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+No mourners, no funerals
 Use the left arrow to go back!
